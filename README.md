@@ -1,5 +1,9 @@
 ## Angular Authentication - Mastering the Basics
 
+### Prerequisites
+1. MongoDB installed on your environment
+2. MongoDB Account. We can use MongoDB cloud provider for free for the minimum usage to run this application.
+
 #### In server directory
 1. Install npm packages
 ```
